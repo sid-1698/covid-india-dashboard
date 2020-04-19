@@ -15,9 +15,9 @@ idna==2.9
 itsdangerous==1.1.0
 Jinja2==2.11.2
 kaggle==1.5.6
-mkl-fft==1.0.15
-mkl-random==1.1.0
-mkl-service==2.3.0
+mkl-fft
+mkl-random
+mkl-service
 MarkupSafe==1.1.1
 numpy==1.18.1
 pandas==1.0.3
