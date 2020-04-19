@@ -148,10 +148,7 @@ def plot2(path):
     data['Samples'] = data['Samples']/10
     fig.add_trace(go.Scatter(x=data['Samples'],y=data['Positive'],text=['State : {} <br> Labs : {}'.format(state,lab) for state,lab in zip(states,labs)],
                              marker_color='#0779e4',hoverinfo = 'text',mode='markers',marker_size=15),1,1)
-    temp = px.scatter(data, x="Samples", y="Positive", trendline="ols")
-    trendline = temp.data[1]
-    fig.add_trace(trendline,1,1)
-    
+                             
     fig.add_shape(
         type='rect',
         x0=0,y0=0,x1=1750,y1=1750,
