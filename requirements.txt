@@ -16,9 +16,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 kaggle==1.5.6
 MarkupSafe==1.1.1
-mkl_fft==1.1.0
-mkl_random==1.1.1
-mkl_service==2.3.0
 numpy==1.18.1
 pandas==1.0.3
 pathlib==1.0.1
