@@ -14,8 +14,6 @@ import deepdive
 import geoplot 
 import json
 
-import plotly.graph_objects as go
-
 state = 'India'
 path = Path(os.path.dirname(os.path.abspath(' ')))/'Data'
 
