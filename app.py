@@ -18,7 +18,7 @@ state = 'India'
 path = Path(os.path.dirname(os.path.abspath(' ')))/'Data'
 
 app = dash.Dash(__name__,external_stylesheets=[dbc.themes.BOOTSTRAP])
-server = app.server()
+server = app.server
 
 SIDEBAR_STYLE = {
     "position": "fixed",
@@ -291,4 +291,4 @@ def render_state_geo(hoverData):
         return geoplot.plot2(path,hoverData['points'][0]['location'])
 
 if __name__ == "__main__":
-    app.run_server(debug=True)  
+    app.run_server(debug=True)    
