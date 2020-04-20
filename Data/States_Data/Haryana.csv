@@ -1,12 +1,12 @@
 ,District,Total_Cases,Cases_Today
 0,Italians*,14,0
-1,Gurugram,32,0
-2,Faridabad,33,0
+1,Gurugram,36,0
+2,Faridabad,42,0
 3,Panipat,5,0
 4,Panchkula,17,0
 5,Sonipat,7,0
 6,Palwal,34,0
-7,Ambala,7,0
+7,Ambala,8,0
 8,Sirsa,4,0
 9,Hisar,2,0
 10,Rohtak,1,0
@@ -19,3 +19,4 @@
 17,Fatehabad,1,0
 18,Kurukshetra,2,0
 19,Yamunanagar,3,0
+20,Unknown,4,0

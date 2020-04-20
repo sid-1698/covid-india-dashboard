@@ -1,8 +1,8 @@
 ,District,Total_Cases,Cases_Today
-0,Munger,17,0
+0,Munger,20,0
 1,Patna,7,0
 2,Siwan,29,0
-3,Nalanda,8,1
+3,Nalanda,11,0
 4,Lakhisarai,1,0
 5,Gopalganj,3,0
 6,Gaya,5,0
@@ -11,4 +11,5 @@
 9,Bhagalpur,1,0
 10,Nawada,3,0
 11,Vaishali,1,0
-12,Buxar,2,0
+12,Buxar,4,0
+13,Bhojpur,1,0
