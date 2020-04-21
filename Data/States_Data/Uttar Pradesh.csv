@@ -1,52 +1,54 @@
 ,District,Total_Cases,Cases_Today
-0,Agra,242,0
-1,Ghaziabad,41,0
-2,Lucknow,162,0
-3,Gautam Buddha Nagar,95,0
-4,Kheri,4,0
-5,Moradabad,57,0
-6,Varanasi,14,0
-7,Kanpur Nagar,30,0
-8,Pilibhit,2,0
-9,Jaunpur,5,0
-10,Baghpat,15,0
-11,Shamli,23,0
-12,Meerut,74,0
-13,Bareilly,6,0
-14,Bulandshahr,15,0
-15,Basti,19,0
-16,Hardoi,2,0
-17,Shahjahanpur,1,0
-18,Firozabad,48,0
-19,Azamgarh,7,0
-20,Saharanpur,72,0
-21,Pratapgarh,6,0
-22,Hapur,16,0
-23,Ghazipur,5,0
-24,Banda,3,0
-25,Mahrajganj,6,0
-26,Hathras,4,0
-27,Mirzapur,4,0
-28,Rae Bareli,2,0
-29,Bara Banki,1,0
-30,Auraiya,6,0
-31,Mathura,4,0
-32,Budaun,8,0
-33,Kaushambi,2,0
-34,Bijnor,22,0
-35,Prayagraj,1,0
-36,Sitapur,17,0
+0,Agra,243,0
+1,Amroha,17,0
+2,Auraiya,7,0
+3,Azamgarh,7,0
+4,Baghpat,15,0
+5,Banda,3,0
+6,Bara Banki,1,0
+7,Bareilly,6,0
+8,Basti,19,0
+9,Bhadohi,1,0
+10,Bijnor,26,0
+11,Budaun,13,0
+12,Bulandshahr,18,0
+13,Etah,3,0
+14,Etawah,3,0
+15,Firozabad,58,0
+16,Gautam Buddha Nagar,100,0
+17,Ghaziabad,46,0
+18,Ghazipur,6,0
+19,Gonda,1,0
+20,Hapur,17,0
+21,Hardoi,2,0
+22,Hathras,4,0
+23,Jaunpur,5,0
+24,Kannauj,6,0
+25,Kanpur Nagar,60,0
+26,Kasganj,3,0
+27,Kaushambi,2,0
+28,Kheri,4,0
+29,Lucknow,164,0
+30,Mahrajganj,6,0
+31,Mainpuri,4,0
+32,Mathura,5,0
+33,Mau,1,0
+34,Meerut,75,0
+35,Mirzapur,4,0
+36,Moradabad,58,0
 37,Muzaffarnagar,7,0
-38,Amroha,10,0
-39,Rampur,14,0
-40,Bhadohi,1,0
-41,Kasganj,3,0
-42,Etawah,3,0
-43,Sambhal,7,0
-44,Unnao,1,0
-45,Kannauj,5,0
-46,Sant Kabir Nagar,1,0
-47,Mainpuri,4,0
-48,Gonda,1,0
-49,Mau,1,0
-50,Unknown,1,0
+38,Pilibhit,2,0
+39,Pratapgarh,6,0
+40,Prayagraj,1,0
+41,Rae Bareli,2,0
+42,Rampur,15,0
+43,Saharanpur,72,0
+44,Sambhal,7,0
+45,Sant Kabir Nagar,1,0
+46,Shahjahanpur,1,0
+47,Shamli,23,0
+48,Sitapur,17,0
+49,Sultanpur,1,0
+50,Unnao,1,0
+51,Varanasi,14,0
+52,Unknown,111,110

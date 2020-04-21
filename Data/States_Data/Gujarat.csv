@@ -1,26 +1,28 @@
 ,District,Total_Cases,Cases_Today
-0,Rajkot,36,0
-1,Surat,242,0
-2,Ahmadabad,1101,0
-3,Vadodara,180,0
-4,Gandhinagar,17,0
-5,Kachchh,4,0
-6,Mahesana,5,0
-7,Bhavnagar,32,0
-8,Porbandar,3,0
-9,Gir Somnath,2,0
-10,Panch Mahals,9,0
-11,Patan,15,0
-12,Chota Udaipur,7,0
-13,Jamnagar,1,0
-14,Morbi,1,0
-15,Anand,28,0
-16,Sabar Kantha,2,0
-17,Dahod,3,0
-18,Bharuch,23,0
-19,Banas Kantha,10,0
-20,Botad,5,0
-21,Kheda,2,0
-22,Narmada,12,0
-23,Aravalli,1,0
-24,Mahisagar,2,0
+0,Ahmadabad,1298,50
+1,Anand,28,0
+2,Aravalli,8,1
+3,Banas Kantha,10,0
+4,Bharuch,23,0
+5,Bhavnagar,32,0
+6,Botad,5,0
+7,Chota Udaipur,7,0
+8,Dahod,3,0
+9,Gandhinagar,17,0
+10,Gir Somnath,3,1
+11,Jamnagar,1,0
+12,Kachchh,6,0
+13,Kheda,3,1
+14,Mahesana,6,0
+15,Mahisagar,3,0
+16,Morbi,1,0
+17,Narmada,12,0
+18,Panch Mahals,11,0
+19,Patan,15,0
+20,Porbandar,3,0
+21,Rajkot,40,2
+22,Sabar Kantha,2,0
+23,Surat,338,69
+24,Tapi,1,1
+25,Vadodara,188,0
+26,Valsad,2,2
