@@ -1,30 +1,28 @@
 ,District,Total_Cases,Cases_Today
-0,Agar Malwa,11,3
-1,Alirajpur,1,0
+0,Agar Malwa,11,0
+1,Alirajpur,3,0
 2,Barwani,24,0
 3,Betul,1,0
-4,Bhopal,285,31
+4,Bhopal,323,0
 5,Chhindwara,4,0
-6,Dewas,20,1
-7,Dhar,41,5
-8,Gwalior,3,-3
-9,Hoshangabad,25,0
-10,Indore,915,18
-11,Jabalpur,26,5
-12,Khandwa,32,0
-13,Khargone,41,0
-14,Mandsaur,8,0
-15,Morena,16,0
-16,Raisen,24,0
-17,Rajgarh,1,0
-18,Ratlam,9,0
-19,Sagar,2,0
-20,Satna,2,0
-21,Shajapur,6,0
-22,Sheopur,4,0
-23,Shivpuri,2,0
-24,Tikamgarh,1,0
-25,Ujjain,33,6
-26,Vidisha,13,0
-27,Other Region*,1,0
-28,Unknown,1,1
+6,Dewas,21,0
+7,Dhar,36,0
+8,Dindori,1,0
+9,Gwalior,4,0
+10,Hoshangabad,26,0
+11,Indore,945,0
+12,Jabalpur,30,0
+13,Khandwa,35,0
+14,Khargone,51,0
+15,Mandsaur,8,0
+16,Morena,16,0
+17,Raisen,26,0
+18,Ratlam,12,0
+19,Sagar,5,0
+20,Shajapur,6,0
+21,Sheopur,4,0
+22,Shivpuri,2,0
+23,Tikamgarh,1,0
+24,Ujjain,76,0
+25,Vidisha,13,0
+26,Other Region*,3,0

@@ -1,10 +1,10 @@
 ,District,Total_Cases,Cases_Today
-0,Ambala,11,0
+0,Ambala,12,0
 1,Bhiwani,3,0
 2,Charki Dadri,1,0
-3,Faridabad,43,1
+3,Faridabad,43,0
 4,Fatehabad,1,0
-5,Gurugram,37,1
+5,Gurugram,47,2
 6,Hisar,2,0
 7,Jind,2,0
 8,Kaithal,2,0
@@ -13,9 +13,9 @@
 11,Nuh,57,0
 12,Palwal,34,0
 13,Panchkula,18,0
-14,Panipat,5,0
-15,Rohtak,1,0
+14,Panipat,7,2
+15,Rohtak,4,1
 16,Sirsa,4,0
-17,Sonipat,9,2
+17,Sonipat,13,0
 18,Yamunanagar,3,0
 19,Italians*,14,0

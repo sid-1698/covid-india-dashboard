@@ -1,54 +1,57 @@
 ,District,Total_Cases,Cases_Today
-0,Agra,243,0
-1,Amroha,17,0
-2,Auraiya,7,0
-3,Azamgarh,7,0
-4,Baghpat,15,0
-5,Banda,3,0
-6,Bara Banki,1,0
-7,Bareilly,6,0
-8,Basti,19,0
-9,Bhadohi,1,0
-10,Bijnor,26,0
-11,Budaun,13,0
-12,Bulandshahr,18,0
-13,Etah,3,0
-14,Etawah,3,0
-15,Firozabad,58,0
-16,Gautam Buddha Nagar,100,0
-17,Ghaziabad,46,0
-18,Ghazipur,6,0
-19,Gonda,1,0
-20,Hapur,17,0
-21,Hardoi,2,0
-22,Hathras,4,0
-23,Jaunpur,5,0
-24,Kannauj,6,0
-25,Kanpur Nagar,60,0
-26,Kasganj,3,0
-27,Kaushambi,2,0
-28,Kheri,4,0
-29,Lucknow,164,0
-30,Mahrajganj,6,0
-31,Mainpuri,4,0
-32,Mathura,5,0
-33,Mau,1,0
-34,Meerut,75,0
-35,Mirzapur,4,0
-36,Moradabad,58,0
-37,Muzaffarnagar,7,0
-38,Pilibhit,2,0
-39,Pratapgarh,6,0
-40,Prayagraj,1,0
-41,Rae Bareli,2,0
-42,Rampur,15,0
-43,Saharanpur,72,0
-44,Sambhal,7,0
-45,Sant Kabir Nagar,1,0
-46,Shahjahanpur,1,0
-47,Shamli,23,0
-48,Sitapur,17,0
-49,Sultanpur,1,0
-50,Unnao,1,0
-51,Varanasi,14,0
-52,Unknown,111,110
+0,Agra,336,0
+1,Aligarh,8,0
+2,Amroha,23,0
+3,Auraiya,10,0
+4,Azamgarh,7,0
+5,Baghpat,15,0
+6,Bahraich,8,0
+7,Balrampur,1,0
+8,Banda,3,0
+9,Bara Banki,1,0
+10,Bareilly,6,0
+11,Basti,20,0
+12,Bhadohi,1,0
+13,Bijnor,29,0
+14,Budaun,13,0
+15,Bulandshahr,22,0
+16,Etah,3,0
+17,Etawah,2,0
+18,Firozabad,66,0
+19,Gautam Buddha Nagar,103,0
+20,Ghaziabad,52,0
+21,Ghazipur,6,0
+22,Gonda,1,0
+23,Hapur,18,0
+24,Hardoi,2,0
+25,Hathras,4,0
+26,Jaunpur,5,0
+27,Kannauj,6,0
+28,Kanpur Nagar,96,0
+29,Kasganj,3,0
+30,Kaushambi,2,0
+31,Kheri,4,0
+32,Lucknow,174,0
+33,Mahrajganj,6,0
+34,Mainpuri,4,0
+35,Mathura,7,0
+36,Mau,1,0
+37,Meerut,85,0
+38,Mirzapur,3,0
+39,Moradabad,97,0
+40,Muzaffarnagar,12,0
+41,Pilibhit,2,0
+42,Pratapgarh,6,0
+43,Prayagraj,1,0
+44,Rae Bareli,43,0
+45,Rampur,16,0
+46,Saharanpur,98,0
+47,Sambhal,8,0
+48,Sant Kabir Nagar,2,0
+49,Shahjahanpur,1,0
+50,Shamli,26,0
+51,Shrawasti,3,0
+52,Sitapur,17,0
+53,Sultanpur,2,0
+54,Unnao,1,0
+55,Varanasi,19,0

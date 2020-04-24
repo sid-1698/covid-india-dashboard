@@ -1,10 +1,15 @@
 ,District,Total_Cases,Cases_Today
-0,Hooghly,1,0
-1,Howrah,1,0
-2,Kalimpong,1,0
-3,Kolkata,11,0
-4,Medinipur East,3,0
-5,Nadia,5,0
-6,North 24 Parganas,4,0
-7,South 24 Parganas,1,0
-8,Unknown,365,53
+0,Darjeeling,4,0
+1,Hooghly,12,0
+2,Howrah,79,0
+3,Jalpaiguri,5,0
+4,Kalimpong,7,0
+5,Kolkata,184,0
+6,Medinipur East,22,0
+7,Murshidabad,2,0
+8,Nadia,6,0
+9,North 24 Parganas,47,0
+10,Paschim Bardhaman,7,0
+11,Purba Bardhaman,1,0
+12,South 24 Parganas,12,0
+13,Unknown,126,58
