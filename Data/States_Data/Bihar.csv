@@ -1,23 +1,29 @@
 ,District,Total_Cases,Cases_Today
-0,Arwal,4,3
-1,Aurangabad,2,0
-2,Banka,2,0
-3,Begusarai,9,0
-4,Bhagalpur,5,0
-5,Bhojpur,2,0
-6,Buxar,25,0
-7,East Champaran,5,4
-8,Gaya,6,0
-9,Gopalganj,12,9
-10,Jehanabad,1,1
-11,Kaimur Bhabua,14,0
-12,Lakhisarai,1,0
-13,Madhepura,1,0
-14,Munger,65,0
-15,Nalanda,34,0
-16,Nawada,3,0
-17,Patna,33,0
-18,Rohtas,15,6
-19,Saran,3,0
-20,Siwan,30,0
-21,Vaishali,2,0
+0,Araria,1,1
+1,Arwal,4,0
+2,Aurangabad,7,0
+3,Banka,3,1
+4,Begusarai,9,0
+5,Bhagalpur,5,0
+6,Bhojpur,9,0
+7,Buxar,26,1
+8,Darbhanga,1,0
+9,East Champaran,5,0
+10,Gaya,6,0
+11,Gopalganj,18,6
+12,Jehanabad,4,3
+13,Kaimur Bhabua,18,4
+14,Lakhisarai,4,0
+15,Madhepura,1,0
+16,Madhubani,5,0
+17,Munger,92,2
+18,Nalanda,35,0
+19,Nawada,4,0
+20,Patna,39,0
+21,Purnia,1,0
+22,Rohtas,31,0
+23,Saran,4,0
+24,Sheikhpura,1,1
+25,Sitamarhi,1,1
+26,Siwan,30,0
+27,Vaishali,2,0

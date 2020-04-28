@@ -1,58 +1,61 @@
 ,District,Total_Cases,Cases_Today
-0,Agra,371,0
-1,Aligarh,11,0
+0,Agra,401,17
+1,Aligarh,24,1
 2,Amroha,25,0
 3,Auraiya,10,0
 4,Azamgarh,8,0
 5,Baghpat,15,0
-6,Bahraich,8,0
+6,Bahraich,9,0
 7,Balrampur,1,0
-8,Banda,3,0
+8,Banda,4,1
 9,Bara Banki,1,0
-10,Bareilly,6,0
+10,Bareilly,7,0
 11,Basti,23,0
 12,Bhadohi,1,0
-13,Bijnor,29,0
-14,Budaun,13,0
-15,Bulandshahr,38,0
+13,Bijnor,31,1
+14,Budaun,16,0
+15,Bulandshahr,50,0
 16,Etah,3,0
 17,Etawah,2,0
-18,Firozabad,83,0
-19,Gautam Buddha Nagar,113,0
-20,Ghaziabad,53,0
+18,Firozabad,100,0
+19,Gautam Buddha Nagar,134,1
+20,Ghaziabad,60,2
 21,Ghazipur,6,0
-22,Gonda,1,0
-23,Hapur,18,0
-24,Hardoi,2,0
-25,Hathras,4,0
-26,Jaunpur,5,0
-27,Kannauj,7,0
-28,Kanpur Nagar,149,0
-29,Kasganj,3,0
-30,Kaushambi,2,0
-31,Kheri,4,0
-32,Lucknow,193,0
-33,Mahrajganj,6,0
-34,Mainpuri,5,0
-35,Mathura,9,0
-36,Mau,1,0
-37,Meerut,89,0
-38,Mirzapur,3,0
-39,Moradabad,101,0
-40,Muzaffarnagar,17,0
-41,Pilibhit,2,0
-42,Pratapgarh,6,0
-43,Prayagraj,4,0
-44,Rae Bareli,43,0
-45,Rampur,20,0
-46,Saharanpur,160,0
-47,Sambhal,12,0
-48,Sant Kabir Nagar,21,0
-49,Shahjahanpur,1,0
-50,Shamli,27,0
-51,Shrawasti,4,0
-52,Sitapur,20,0
-53,Sultanpur,3,0
-54,Unnao,1,0
-55,Varanasi,26,0
-56,Ayodhya,1,0
+22,Gonda,2,1
+23,Gorakhpur,1,0
+24,Hapur,26,0
+25,Hardoi,2,0
+26,Hathras,4,0
+27,Jalaun,3,1
+28,Jaunpur,8,3
+29,Jhansi,1,0
+30,Kannauj,7,0
+31,Kanpur Nagar,205,8
+32,Kasganj,3,0
+33,Kaushambi,2,0
+34,Kheri,4,0
+35,Lucknow,201,5
+36,Mahrajganj,6,0
+37,Mainpuri,5,0
+38,Mathura,12,2
+39,Mau,1,0
+40,Meerut,94,2
+41,Mirzapur,3,0
+42,Moradabad,109,5
+43,Muzaffarnagar,18,0
+44,Pilibhit,3,0
+45,Pratapgarh,7,0
+46,Prayagraj,4,0
+47,Rae Bareli,44,1
+48,Rampur,21,0
+49,Saharanpur,181,0
+50,Sambhal,14,1
+51,Sant Kabir Nagar,23,2
+52,Shahjahanpur,1,0
+53,Shamli,27,0
+54,Shrawasti,5,0
+55,Sitapur,20,0
+56,Sultanpur,3,0
+57,Unnao,1,0
+58,Varanasi,50,13
+59,Ayodhya,1,0
