@@ -1,21 +1,21 @@
 ,District,Total_Cases,Cases_Today
 0,Ahmadnagar,42,0
-1,Akola,34,0
-2,Amravati,28,0
-3,Aurangabad,90,0
+1,Akola,34,5
+2,Amravati,28,6
+3,Aurangabad,90,38
 4,Bhandara,1,0
 5,Bid,1,0
 6,Buldana,21,0
 7,Chandrapur,2,0
 8,Dhule,25,0
 9,Gondiya,1,0
-10,Hingoli,15,0
+10,Hingoli,15,7
 11,Jalgaon,40,20
 12,Jalna,2,0
-13,Kolhapur,12,0
-14,Latur,12,0
+13,Kolhapur,12,1
+14,Latur,12,2
 15,Mumbai,6169,393
-16,Nagpur,134,0
+16,Nagpur,134,7
 17,Nanded,3,0
 18,Nandurbar,11,0
 19,Nashik,195,49
@@ -31,5 +31,5 @@
 29,Solapur,82,17
 30,Thane,824,72
 31,Washim,1,0
-32,Yavatmal,71,0
+32,Yavatmal,71,9
 33,Other States,25,0
