@@ -1,7 +1,7 @@
 ,District,Total_Cases,Cases_Today
 0,Adilabad,21,0
 1,Bhadradri Kothagudem,4,0
-2,Hyderabad,548,6
+2,Hyderabad,548,0
 3,Jagitial,3,0
 4,Jangoan,3,0
 5,Jayashankar,3,0
@@ -29,4 +29,4 @@
 27,Suryapet,83,0
 28,Vikarabad,37,0
 29,Warangal Urban,27,0
-30,Unknown,0,0
+30,Unknown,7,0

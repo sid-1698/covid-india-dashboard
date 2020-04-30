@@ -1,61 +1,62 @@
 ,District,Total_Cases,Cases_Today
-0,Agra,401,17
-1,Aligarh,24,1
-2,Amroha,25,0
+0,Agra,468,38
+1,Aligarh,35,3
+2,Amroha,26,1
 3,Auraiya,10,0
 4,Azamgarh,8,0
 5,Baghpat,15,0
 6,Bahraich,9,0
 7,Balrampur,1,0
-8,Banda,4,1
+8,Banda,4,0
 9,Bara Banki,1,0
-10,Bareilly,7,0
+10,Bareilly,8,0
 11,Basti,23,0
 12,Bhadohi,1,0
-13,Bijnor,31,1
+13,Bijnor,32,0
 14,Budaun,16,0
-15,Bulandshahr,50,0
-16,Etah,3,0
+15,Bulandshahr,51,1
+16,Etah,4,1
 17,Etawah,2,0
-18,Firozabad,100,0
-19,Gautam Buddha Nagar,134,1
-20,Ghaziabad,60,2
+18,Firozabad,111,1
+19,Gautam Buddha Nagar,141,4
+20,Ghaziabad,62,1
 21,Ghazipur,6,0
-22,Gonda,2,1
-23,Gorakhpur,1,0
+22,Gonda,2,0
+23,Gorakhpur,2,1
 24,Hapur,26,0
 25,Hardoi,2,0
 26,Hathras,4,0
-27,Jalaun,3,1
-28,Jaunpur,8,3
-29,Jhansi,1,0
+27,Jalaun,3,0
+28,Jaunpur,8,0
+29,Jhansi,4,1
 30,Kannauj,7,0
-31,Kanpur Nagar,205,8
-32,Kasganj,3,0
-33,Kaushambi,2,0
-34,Kheri,4,0
-35,Lucknow,201,5
-36,Mahrajganj,6,0
-37,Mainpuri,5,0
-38,Mathura,12,2
-39,Mau,1,0
-40,Meerut,94,2
-41,Mirzapur,3,0
-42,Moradabad,109,5
-43,Muzaffarnagar,18,0
-44,Pilibhit,3,0
-45,Pratapgarh,7,0
-46,Prayagraj,4,0
-47,Rae Bareli,44,1
-48,Rampur,21,0
-49,Saharanpur,181,0
-50,Sambhal,14,1
-51,Sant Kabir Nagar,23,2
-52,Shahjahanpur,1,0
-53,Shamli,27,0
-54,Shrawasti,5,0
-55,Sitapur,20,0
-56,Sultanpur,3,0
-57,Unnao,1,0
-58,Varanasi,50,13
-59,Ayodhya,1,0
+31,Kanpur Dehat,1,1
+32,Kanpur Nagar,210,3
+33,Kasganj,3,0
+34,Kaushambi,2,0
+35,Kheri,4,0
+36,Lucknow,206,1
+37,Mahrajganj,7,1
+38,Mainpuri,5,0
+39,Mathura,13,0
+40,Mau,1,0
+41,Meerut,102,5
+42,Mirzapur,3,0
+43,Moradabad,110,1
+44,Muzaffarnagar,23,0
+45,Pilibhit,3,0
+46,Pratapgarh,7,0
+47,Prayagraj,4,0
+48,Rae Bareli,44,0
+49,Rampur,24,0
+50,Saharanpur,187,5
+51,Sambhal,18,0
+52,Sant Kabir Nagar,23,0
+53,Shahjahanpur,1,0
+54,Shamli,27,0
+55,Shrawasti,5,0
+56,Sitapur,20,0
+57,Sultanpur,3,0
+58,Unnao,1,0
+59,Varanasi,61,8
+60,Ayodhya,1,0
