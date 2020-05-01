@@ -1,13 +1,13 @@
 ,District,Total_Cases,Cases_Today
-0,Anantapur,61,3
-1,Chittoor,80,3
-2,East Godavari,42,2
-3,Guntur,287,4
-4,Krishna,246,10
-5,Kurnool,386,43
+0,Anantapur,67,6
+1,Chittoor,80,0
+2,East Godavari,42,0
+3,Guntur,306,19
+4,Krishna,246,0
+5,Kurnool,411,25
 6,Prakasam,60,0
-7,S.P.S. Nellore,84,2
+7,S.P.S. Nellore,84,0
 8,Srikakulam,5,0
-9,Visakhapatnam,23,0
-10,West Godavari,56,0
-11,Y.S.R.,73,4
+9,Visakhapatnam,25,2
+10,West Godavari,58,2
+11,Y.S.R.,79,6
