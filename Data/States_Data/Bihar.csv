@@ -5,26 +5,27 @@
 3,Banka,3,0
 4,Begusarai,11,0
 5,Bhagalpur,5,0
-6,Bhojpur,12,1
-7,Buxar,51,11
+6,Bhojpur,12,0
+7,Buxar,51,0
 8,Darbhanga,5,0
-9,East Champaran,5,0
-10,Gaya,6,0
-11,Gopalganj,18,0
-12,Jehanabad,4,0
-13,Kaimur Bhabua,24,6
-14,Lakhisarai,4,0
-15,Madhepura,2,0
-16,Madhubani,5,0
-17,Munger,95,0
-18,Nalanda,36,1
-19,Nawada,4,0
+9,Gaya,6,0
+10,Gopalganj,18,0
+11,Jehanabad,4,0
+12,Kaimur,24,0
+13,Lakhisarai,4,0
+14,Madhepura,2,0
+15,Madhubani,18,0
+16,Munger,95,0
+17,Nalanda,36,0
+18,Nawada,4,0
+19,West Champaran,5,0
 20,Patna,44,0
-21,Purnia,1,0
-22,Rohtas,51,6
-23,Saran,6,0
-24,Sheikhpura,1,0
-25,Sitamarhi,6,0
-26,Siwan,30,0
-27,Vaishali,3,0
-28,West Champaran,5,0
+21,East Champaran,5,0
+22,Purnia,1,0
+23,Rohtas,52,0
+24,Saran,6,0
+25,Sheikhpura,1,0
+26,Sitamarhi,6,0
+27,Siwan,30,0
+28,Vaishali,3,0
+29,Unknown,2,0
