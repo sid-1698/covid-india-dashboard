@@ -1,65 +1,65 @@
 ,District,Total_Cases,Cases_Today
-0,Agra,497,0
-1,Aligarh,35,0
-2,Amroha,26,0
-3,Auraiya,10,0
+0,Agra,596,60
+1,Aligarh,42,1
+2,Amroha,30,0
+3,Auraiya,12,2
 4,Azamgarh,8,0
-5,Baghpat,15,0
-6,Bahraich,9,0
+5,Baghpat,17,0
+6,Bahraich,14,0
 7,Balrampur,1,0
 8,Banda,7,0
-9,Barabanki,1,0
-10,Bareilly,8,0
-11,Basti,25,0
+9,Barabanki,2,1
+10,Bareilly,10,0
+11,Basti,32,0
 12,Bhadohi,2,0
-13,Bijnor,32,0
+13,Bijnor,34,0
 14,Budaun,16,0
-15,Bulandshahr,51,0
-16,Deoria,1,0
-17,Etah,9,0
+15,Bulandshahr,55,1
+16,Deoria,2,0
+17,Etah,11,0
 18,Etawah,2,0
-19,Firozabad,124,0
-20,Gautam Buddha Nagar,154,0
-21,Ghaziabad,65,0
+19,Firozabad,147,10
+20,Gautam Buddha Nagar,168,9
+21,Ghaziabad,82,14
 22,Ghazipur,6,0
-23,Gonda,2,0
-24,Gorakhpur,2,0
-25,Hapur,33,0
+23,Gonda,3,0
+24,Gorakhpur,3,0
+25,Hapur,44,9
 26,Hardoi,2,0
-27,Hathras,5,0
-28,Jalaun,3,0
+27,Hathras,7,1
+28,Jalaun,5,1
 29,Jaunpur,8,0
-30,Jhansi,4,0
+30,Jhansi,9,0
 31,Kannauj,7,0
 32,Kanpur Dehat,1,0
-33,Kanpur Nagar,222,0
+33,Kanpur Nagar,256,29
 34,Kasganj,3,0
 35,Kaushambi,2,0
-36,Kheri,4,0
-37,Lucknow,214,0
-38,Maharajganj,7,0
-39,Mainpuri,5,0
-40,Mathura,13,0
-41,Mau,1,0
-42,Meerut,105,0
-43,Mirzapur,3,0
-44,Moradabad,110,0
-45,Muzaffarnagar,23,0
-46,Pilibhit,3,0
-47,Pratapgarh,9,0
-48,Prayagraj,5,0
-49,Rae Bareli,44,0
-50,Rampur,24,0
-51,Saharanpur,192,0
-52,Sambhal,19,0
-53,Sant Kabir Nagar,26,0
-54,Shahjahanpur,1,0
-55,Shamli,27,0
-56,Shrawasti,5,0
-57,Siddharthnagar,2,0
-58,Sitapur,20,0
-59,Sultanpur,3,0
-60,Unnao,2,0
-61,Varanasi,61,0
-62,Ayodhya,1,0
-63,Unknown,1,0
+36,Lakhimpur Kheri,4,0
+37,Lucknow,226,4
+38,Mahoba,2,0
+39,Maharajganj,7,0
+40,Mainpuri,7,0
+41,Mathura,27,5
+42,Mau,1,0
+43,Meerut,114,1
+44,Mirzapur,3,0
+45,Moradabad,115,2
+46,Muzaffarnagar,24,1
+47,Pilibhit,3,0
+48,Pratapgarh,10,1
+49,Prayagraj,10,1
+50,Rae Bareli,44,0
+51,Rampur,25,0
+52,Saharanpur,202,0
+53,Sambhal,21,2
+54,Sant Kabir Nagar,25,-2
+55,Shahjahanpur,1,0
+56,Shamli,27,0
+57,Shrawasti,6,0
+58,Siddharthnagar,4,2
+59,Sitapur,20,0
+60,Sultanpur,3,0
+61,Unnao,3,0
+62,Varanasi,64,3
+63,Ayodhya,1,0
