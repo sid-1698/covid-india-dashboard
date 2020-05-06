@@ -1,8 +1,8 @@
 ,District,Total_Cases,Cases_Today
-0,Anantnag,110,1
+0,Anantnag,110,0
 1,Budgam,30,0
-2,Bandipora,132,2
-3,Baramulla,104,1
+2,Bandipora,132,0
+3,Baramulla,104,0
 4,Ganderbal,14,0
 5,Jammu,27,0
 6,Kathua,1,0
@@ -14,6 +14,6 @@
 12,Ramban,1,0
 13,Reasi,1,0
 14,Samba,7,0
-15,Shopiyan,89,6
-16,Srinagar,113,4
-17,Udhampur,21,1
+15,Shopiyan,89,0
+16,Srinagar,113,0
+17,Udhampur,21,0

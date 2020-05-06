@@ -1,19 +1,18 @@
 ,District,Total_Cases,Cases_Today
 0,Birbhum,3,0
-1,Darjeeling,6,0
-2,Hooghly,43,2
-3,Howrah,265,24
-4,Jalpaiguri,5,0
+1,Darjeeling,7,0
+2,Hooghly,43,0
+3,Howrah,265,0
+4,Jalpaiguri,4,0
 5,Kalimpong,7,0
-6,Kolkata,700,41
+6,Kolkata,700,0
 7,Malda,2,0
-8,Paschim Medinipur,15,0
-9,Murshidabad,2,0
+8,Paschim Medinipur,17,0
+9,Murshidabad,1,0
 10,Nadia,8,0
-11,North 24 Parganas,187,9
+11,North 24 Parganas,187,0
 12,Paschim Bardhaman,10,0
-13,Purba Bardhaman,4,1
-14,Purba Medinipur,37,1
-15,South 24 Parganas,38,5
-16,Other State,11,1
-17,Unknown,1,0
+13,Purba Bardhaman,4,0
+14,Purba Medinipur,37,0
+15,South 24 Parganas,38,0
+16,Other State,11,0
