@@ -1,6 +1,6 @@
 ,District,Total_Cases,Cases_Today
-0,Agra,640,0
-1,Aligarh,43,0
+0,Agra,655,0
+1,Aligarh,50,0
 2,Amethi,1,0
 3,Amroha,32,0
 4,Auraiya,13,0
@@ -8,60 +8,61 @@
 6,Baghpat,18,0
 7,Bahraich,15,0
 8,Balrampur,1,0
-9,Banda,7,0
+9,Banda,14,0
 10,Barabanki,2,0
 11,Bareilly,10,0
-12,Basti,32,0
+12,Basti,36,0
 13,Bhadohi,2,0
 14,Bijnor,34,0
 15,Budaun,16,0
-16,Bulandshahr,56,0
-17,Deoria,2,0
-18,Etah,11,0
-19,Etawah,2,0
-20,Firozabad,165,0
-21,Gautam Buddha Nagar,193,0
-22,Ghaziabad,104,0
-23,Ghazipur,6,0
-24,Gonda,8,0
-25,Gorakhpur,3,0
-26,Hapur,44,0
-27,Hardoi,2,0
-28,Hathras,7,0
-29,Jalaun,5,0
-30,Jaunpur,8,0
-31,Jhansi,15,0
-32,Kannauj,7,0
-33,Kanpur Dehat,2,0
-34,Kanpur Nagar,276,0
-35,Kasganj,3,0
-36,Kaushambi,2,0
-37,Lakhimpur Kheri,4,0
-38,Kushinagar,1,0
-39,Lucknow,231,0
-40,Mahoba,2,0
-41,Maharajganj,7,0
-42,Mainpuri,8,0
-43,Mathura,32,0
-44,Mau,1,0
-45,Meerut,163,0
-46,Mirzapur,3,0
-47,Moradabad,116,0
-48,Muzaffarnagar,24,0
-49,Pilibhit,3,0
-50,Pratapgarh,11,0
-51,Prayagraj,10,0
-52,Rae Bareli,46,0
-53,Rampur,25,0
-54,Saharanpur,205,0
-55,Sambhal,21,0
-56,Sant Kabir Nagar,26,0
-57,Shahjahanpur,1,0
-58,Shamli,29,0
-59,Shrawasti,7,0
-60,Siddharthnagar,14,0
-61,Sitapur,20,0
-62,Sultanpur,3,0
-63,Unnao,3,0
-64,Varanasi,68,0
-65,Ayodhya,1,0
+16,Bulandshahr,57,0
+17,Chitrakoot,3,0
+18,Deoria,2,0
+19,Etah,12,0
+20,Etawah,2,0
+21,Firozabad,177,0
+22,Gautam Buddha Nagar,193,0
+23,Ghaziabad,110,0
+24,Ghazipur,6,0
+25,Gonda,8,0
+26,Gorakhpur,3,0
+27,Hapur,47,0
+28,Hardoi,2,0
+29,Hathras,7,0
+30,Jalaun,8,0
+31,Jaunpur,8,0
+32,Jhansi,15,0
+33,Kannauj,7,0
+34,Kanpur Dehat,2,0
+35,Kanpur Nagar,292,0
+36,Kasganj,3,0
+37,Kaushambi,2,0
+38,Lakhimpur Kheri,4,0
+39,Kushinagar,2,0
+40,Lucknow,231,0
+41,Mahoba,2,0
+42,Maharajganj,7,0
+43,Mainpuri,9,0
+44,Mathura,36,0
+45,Mau,1,0
+46,Meerut,174,0
+47,Mirzapur,3,0
+48,Moradabad,116,0
+49,Muzaffarnagar,24,0
+50,Pilibhit,3,0
+51,Pratapgarh,12,0
+52,Prayagraj,15,0
+53,Rae Bareli,46,0
+54,Rampur,25,0
+55,Saharanpur,205,0
+56,Sambhal,21,0
+57,Sant Kabir Nagar,30,0
+58,Shahjahanpur,1,0
+59,Shamli,29,0
+60,Shrawasti,8,0
+61,Siddharthnagar,17,0
+62,Sitapur,20,0
+63,Sultanpur,3,0
+64,Unnao,3,0
+65,Varanasi,77,0
+66,Ayodhya,1,0
