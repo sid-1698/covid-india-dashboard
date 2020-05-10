@@ -1,33 +1,34 @@
 ,District,Total_Cases,Cases_Today
-0,Ahmedabad,4716,0
-1,Anand,76,0
-2,Aravalli,22,0
-3,Banaskantha,64,0
-4,Bharuch,27,0
-5,Bhavnagar,82,0
-6,Botad,48,0
-7,Chhota Udaipur,14,0
-8,Dahod,15,0
-9,Dang,2,0
-10,Devbhumi Dwarka,3,0
-11,Gandhinagar,83,0
-12,Gir Somnath,3,0
-13,Jamnagar,5,0
-14,Junagadh,2,0
-15,Kheda,17,0
-16,Kutch,7,0
-17,Mahisagar,42,0
-18,Mehsana,42,0
-19,Morbi,1,0
-20,Narmada,12,0
-21,Navsari,8,0
-22,Panchmahal,51,0
-23,Patan,24,0
-24,Porbandar,3,0
-25,Rajkot,62,0
-26,Sabarkantha,10,0
-27,Surat,754,0
-28,Surendranagar,1,0
-29,Tapi,2,0
-30,Vadodara,421,0
-31,Valsad,6,0
+0,Other State,1,0
+1,Ahmedabad,5818,278
+2,Anand,78,1
+3,Aravalli,73,2
+4,Banaskantha,81,4
+5,Bharuch,28,0
+6,Bhavnagar,94,0
+7,Botad,56,3
+8,Chhota Udaipur,14,0
+9,Dahod,20,0
+10,Dang,2,0
+11,Devbhumi Dwarka,4,0
+12,Gandhinagar,129,10
+13,Gir Somnath,12,8
+14,Jamnagar,26,3
+15,Junagadh,2,0
+16,Kheda,29,0
+17,Kutch,8,1
+18,Mahisagar,44,0
+19,Mehsana,50,8
+20,Morbi,2,1
+21,Narmada,12,0
+22,Navsari,8,0
+23,Panchmahal,61,2
+24,Patan,27,3
+25,Porbandar,3,0
+26,Rajkot,66,0
+27,Sabarkantha,23,6
+28,Surat,895,41
+29,Surendranagar,3,2
+30,Tapi,2,0
+31,Vadodara,518,25
+32,Valsad,6,0

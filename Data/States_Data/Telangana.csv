@@ -1,32 +1,33 @@
 ,District,Total_Cases,Cases_Today
-0,Adilabad,21,0
-1,Bhadradri Kothagudem,4,0
-2,Hyderabad,602,0
-3,Jagtial,4,0
-4,Jangaon,3,0
-5,Jayashankar Bhupalapally,3,0
-6,Jogulamba Gadwal,45,0
-7,Kamareddy,12,0
-8,Karimnagar,19,0
-9,Khammam,8,0
-10,Komaram Bheem,7,0
-11,Mahabubabad,1,0
-12,Mahabubnagar,11,0
-13,Mancherial,1,0
-14,Medak,5,0
-15,Medchal Malkajgiri,22,0
-16,Mulugu,2,0
-17,Nagarkurnool,2,0
-18,Nalgonda,17,0
-19,Narayanpet,1,0
-20,Nirmal,20,0
-21,Nizamabad,61,0
-22,Peddapalli,2,0
-23,Rajanna Sircilla,3,0
-24,Ranga Reddy,36,0
-25,Sangareddy,7,0
-26,Siddipet,1,0
-27,Suryapet,83,0
-28,Vikarabad,37,0
-29,Warangal Urban,27,0
-30,Unknown,40,0
+0,Other State,11,7
+1,Adilabad,21,0
+2,Bhadradri Kothagudem,4,0
+3,Hyderabad,680,26
+4,Jagtial,4,0
+5,Jangaon,3,0
+6,Jayashankar Bhupalapally,3,0
+7,Jogulamba Gadwal,45,0
+8,Kamareddy,12,0
+9,Karimnagar,19,0
+10,Khammam,8,0
+11,Komaram Bheem,7,0
+12,Mahabubabad,1,0
+13,Mahabubnagar,11,0
+14,Mancherial,1,0
+15,Medak,5,0
+16,Medchal Malkajgiri,22,0
+17,Mulugu,2,0
+18,Nagarkurnool,2,0
+19,Nalgonda,17,0
+20,Narayanpet,1,0
+21,Nirmal,20,0
+22,Nizamabad,61,0
+23,Peddapalli,2,0
+24,Rajanna Sircilla,3,0
+25,Ranga Reddy,36,0
+26,Sangareddy,7,0
+27,Siddipet,1,0
+28,Suryapet,83,0
+29,Vikarabad,37,0
+30,Warangal Urban,27,0
+31,Unknown,40,0
