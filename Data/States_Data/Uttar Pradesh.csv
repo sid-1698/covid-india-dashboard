@@ -1,75 +1,77 @@
 ,District,Total_Cases,Cases_Today
-0,Agra,794,24
-1,Aligarh,60,3
+0,Agra,791,-3
+1,Aligarh,63,3
 2,Ambedkar Nagar,2,0
-3,Amethi,11,5
+3,Amethi,11,0
 4,Amroha,32,0
-5,Auraiya,16,0
+5,Auraiya,18,2
 6,Ayodhya,1,0
 7,Azamgarh,9,0
-8,Baghpat,25,3
-9,Bahraich,26,1
+8,Baghpat,25,0
+9,Bahraich,26,0
 10,Ballia,1,0
 11,Balrampur,2,0
-12,Banda,21,1
+12,Banda,21,0
 13,Barabanki,7,0
 14,Bareilly,11,0
 15,Basti,41,0
 16,Bhadohi,3,0
-17,Bijnor,44,1
+17,Bijnor,44,0
 18,Budaun,17,0
-19,Bulandshahr,75,1
-20,Chitrakoot,8,2
-21,Deoria,3,0
-22,Etah,11,0
-23,Etawah,2,0
-24,Farrukhabad,8,6
-25,Fatehpur,5,1
-26,Firozabad,194,1
-27,Gautam Buddha Nagar,235,5
-28,Ghaziabad,147,2
-29,Ghazipur,8,0
-30,Gonda,21,3
-31,Gorakhpur,4,0
-32,Hamirpur,1,0
-33,Hapur,58,2
-34,Hardoi,4,2
-35,Hathras,19,0
-36,Jalaun,37,6
-37,Jaunpur,11,0
-38,Jhansi,26,0
-39,Kannauj,16,5
-40,Kanpur Dehat,4,0
-41,Kanpur Nagar,307,5
-42,Kasganj,6,0
-43,Kaushambi,2,0
-44,Kushinagar,2,0
-45,Lakhimpur Kheri,5,0
-46,Lalitpur,1,0
-47,Lucknow,249,1
-48,Maharajganj,8,1
-49,Mahoba,2,0
-50,Mainpuri,13,0
-51,Mathura,56,0
-52,Mau,1,0
-53,Meerut,267,12
-54,Mirzapur,7,0
-55,Moradabad,128,2
-56,Muzaffarnagar,26,0
-57,Pilibhit,4,0
-58,Pratapgarh,15,2
-59,Prayagraj,19,0
-60,Rae Bareli,49,0
-61,Rampur,31,0
-62,Saharanpur,192,-12
-63,Sambhal,30,0
-64,Sant Kabir Nagar,31,0
-65,Shahjahanpur,1,0
-66,Shamli,32,1
-67,Shrawasti,12,0
-68,Siddharthnagar,24,5
-69,Sitapur,26,-1
-70,Sonbhadra,1,0
-71,Sultanpur,5,0
-72,Unnao,5,0
-73,Varanasi,87,1
+19,Bulandshahr,75,0
+20,Chandauli,1,1
+21,Chitrakoot,8,0
+22,Deoria,3,0
+23,Etah,11,0
+24,Etawah,2,0
+25,Farrukhabad,8,0
+26,Fatehpur,6,1
+27,Firozabad,194,0
+28,Gautam Buddha Nagar,249,14
+29,Ghaziabad,150,3
+30,Ghazipur,10,2
+31,Gonda,21,0
+32,Gorakhpur,6,2
+33,Hamirpur,1,0
+34,Hapur,60,2
+35,Hardoi,4,0
+36,Hathras,19,0
+37,Jalaun,37,0
+38,Jaunpur,12,1
+39,Jhansi,30,4
+40,Kannauj,21,5
+41,Kanpur Dehat,4,0
+42,Kanpur Nagar,308,1
+43,Kasganj,7,1
+44,Kaushambi,5,3
+45,Kushinagar,2,0
+46,Lakhimpur Kheri,5,0
+47,Lalitpur,1,0
+48,Lucknow,264,15
+49,Maharajganj,9,1
+50,Mahoba,3,1
+51,Mainpuri,13,0
+52,Mathura,56,0
+53,Mau,1,0
+54,Meerut,274,7
+55,Mirzapur,7,0
+56,Moradabad,135,7
+57,Muzaffarnagar,26,0
+58,Pilibhit,6,2
+59,Pratapgarh,16,1
+60,Prayagraj,21,2
+61,Rae Bareli,50,1
+62,Rampur,31,0
+63,Saharanpur,192,0
+64,Sambhal,30,0
+65,Sant Kabir Nagar,32,1
+66,Shahjahanpur,1,0
+67,Shamli,32,0
+68,Shrawasti,12,0
+69,Siddharthnagar,30,6
+70,Sitapur,26,0
+71,Sonbhadra,1,0
+72,Sultanpur,9,4
+73,Unnao,6,1
+74,Varanasi,90,3
+75,Unknown,0,0

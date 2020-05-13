@@ -1,8 +1,15 @@
 ,District,Total_Cases,Cases_Today
-0,Almora,1,0
-1,Dehradun,35,0
-2,Haridwar,7,0
-3,Nainital,11,1
-4,Pauri Garhwal,1,0
-5,Udham Singh Nagar,13,0
-6,Uttarkashi,1,0
+0,Almora,2,1
+1,Bageshwar,0,0
+2,Chamoli,0,0
+3,Champawat,0,0
+4,Dehradun,36,1
+5,Haridwar,7,0
+6,Nainital,11,0
+7,Pauri Garhwal,1,0
+8,Pithoragarh,0,0
+9,Rudraprayag,0,0
+10,Tehri Garhwal,0,0
+11,Udham Singh Nagar,13,0
+12,Uttarkashi,1,0
+13,Unknown,1,0

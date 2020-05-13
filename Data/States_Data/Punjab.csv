@@ -1,21 +1,21 @@
 ,District,Total_Cases,Cases_Today
-0,Amritsar,298,1
+0,Amritsar,298,0
 1,Barnala,21,0
 2,Bathinda,40,0
 3,Faridkot,46,0
-4,Fatehgarh Sahib,56,8
-5,Fazilka,41,1
+4,Fatehgarh Sahib,56,0
+5,Fazilka,41,0
 6,Ferozepur,44,0
 7,Gurdaspur,121,0
-8,Hoshiarpur,91,0
-9,Jalandhar,197,9
-10,Kapurthala,26,1
-11,Ludhiana,143,16
+8,Hoshiarpur,92,1
+9,Jalandhar,198,1
+10,Kapurthala,27,1
+11,Ludhiana,148,5
 12,Mansa,32,0
 13,Moga,59,0
 14,Pathankot,29,0
-15,Patiala,99,1
-16,Rupnagar,54,0
+15,Patiala,99,0
+16,Rupnagar,56,2
 17,S.A.S. Nagar,102,0
 18,Sangrur,88,0
 19,Shahid Bhagat Singh Nagar,104,0

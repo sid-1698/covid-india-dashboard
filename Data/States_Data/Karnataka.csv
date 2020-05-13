@@ -1,27 +1,32 @@
 ,District,Total_Cases,Cases_Today
-0,Bagalkote,68,15
-1,Ballari,16,1
+0,Bagalkote,68,0
+1,Ballari,17,1
 2,Belagavi,113,0
 3,Bengaluru Rural,6,0
-4,Bengaluru Urban,182,4
-5,Bidar,29,2
-6,Chikkaballapura,24,1
-7,Chitradurga,7,0
-8,Dakshina Kannada,27,2
-9,Davanagere,83,12
-10,Dharwad,21,9
-11,Gadag,8,3
-12,Hassan,5,5
-13,Haveri,3,0
-14,Kalaburagi,73,1
-15,Kodagu,1,0
-16,Kolar,5,5
-17,Mandya,31,1
-18,Mysuru,88,0
-19,Other State,22,0
-20,Shivamogga,8,0
-21,Tumakuru,11,0
-22,Udupi,3,0
-23,Uttara Kannada,39,0
-24,Vijayapura,50,0
-25,Yadgir,2,2
+4,Bengaluru Urban,184,2
+5,Bidar,41,12
+6,Chamarajanagara,0,0
+7,Chikkaballapura,24,0
+8,Chikkamagaluru,0,0
+9,Chitradurga,7,0
+10,Dakshina Kannada,28,1
+11,Davanagere,85,2
+12,Dharwad,21,0
+13,Gadag,8,0
+14,Hassan,9,4
+15,Haveri,3,0
+16,Kalaburagi,81,8
+17,Kodagu,1,0
+18,Kolar,5,0
+19,Koppal,0,0
+20,Mandya,31,0
+21,Mysuru,88,0
+22,Other State,22,0
+23,Raichur,0,0
+24,Ramanagara,0,0
+25,Shivamogga,8,0
+26,Tumakuru,11,0
+27,Udupi,3,0
+28,Uttara Kannada,41,2
+29,Vijayapura,52,2
+30,Yadgir,2,0
