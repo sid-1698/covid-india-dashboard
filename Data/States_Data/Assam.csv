@@ -3,33 +3,34 @@
 1,Barpeta,0,0
 2,Biswanath,2,0
 3,Bongaigaon,5,0
-4,Cachar,14,0
+4,Cachar,21,0
 5,Charaideo,0,0
 6,Chirang,0,0
-7,Darrang,0,0
+7,Darrang,1,0
 8,Dhemaji,0,0
-9,Dhubri,5,0
-10,Dibrugarh,0,0
+9,Dhubri,7,0
+10,Dibrugarh,1,0
 11,Dima Hasao,0,0
 12,Goalpara,6,0
 13,Golaghat,15,0
-14,Hailakandi,1,0
-15,Hojai,10,8
+14,Hailakandi,2,0
+15,Hojai,10,0
 16,Jorhat,7,0
-17,Kamrup,10,1
-18,Kamrup Metropolitan,81,15
+17,Kamrup,10,0
+18,Kamrup Metropolitan,81,0
 19,Karbi Anglong,0,0
-20,Karimganj,5,1
-21,Kokrajhar,2,0
-22,Lakhimpur,1,0
+20,Karimganj,5,0
+21,Kokrajhar,6,0
+22,Lakhimpur,4,0
 23,Majuli,0,0
 24,Morigaon,6,0
-25,Nagaon,4,1
+25,Nagaon,5,0
 26,Nalbari,6,0
 27,Other State,1,0
-28,Sivasagar,1,0
-29,Sonitpur,3,2
+28,Sivasagar,6,0
+29,Sonitpur,14,0
 30,South Salmara Mankachar,1,0
-31,Tinsukia,0,0
-32,Udalguri,0,0
-33,West Karbi Anglong,0,0
+31,Tinsukia,1,0
+32,Udalguri,2,0
+33,West Karbi Anglong,1,0
+34,Unknown,34,0

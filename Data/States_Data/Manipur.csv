@@ -1,7 +1,7 @@
 ,District,Total_Cases,Cases_Today
 0,Bishnupur,0,0
 1,Chandel,0,0
-2,Churachandpur,16,15
+2,Churachandpur,16,0
 3,Imphal East,3,0
 4,Imphal West,5,0
 5,Jiribam,0,0
@@ -15,4 +15,4 @@
 13,Tengnoupal,0,0
 14,Thoubal,0,0
 15,Ukhrul,0,0
-16,Unknown,1,0
+16,Unknown,2,0
