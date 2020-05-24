@@ -1,41 +1,41 @@
 ,District,Total_Cases,Cases_Today
-0,Railway Quarantine,5,0
-1,Airport Quarantine,62,0
+0,Railway Quarantine,6,1
+1,Airport Quarantine,76,2
 2,Other State,1,0
-3,Ariyalur,355,0
-4,Chengalpattu,691,0
-5,Chennai,9370,0
+3,Ariyalur,356,1
+4,Chengalpattu,776,46
+5,Chennai,10582,587
 6,Coimbatore,145,0
-7,Cuddalore,421,0
+7,Cuddalore,427,4
 8,Dharmapuri,5,0
 9,Dindigul,133,0
 10,Erode,71,0
-11,Kallakurichi,121,0
-12,Kancheepuram,246,0
-13,Kanyakumari,49,0
+11,Kallakurichi,136,15
+12,Kancheepuram,280,21
+13,Kanyakumari,51,2
 14,Karur,80,0
 15,Krishnagiri,22,0
-16,Madurai,224,0
+16,Madurai,232,6
 17,Nagapattinam,51,0
 18,Namakkal,77,0
 19,Nilgiris,14,0
 20,Perambalur,139,0
-21,Pudukkottai,19,0
-22,Ramanathapuram,52,0
-23,Ranipet,89,0
-24,Salem,49,0
+21,Pudukkottai,21,1
+22,Ramanathapuram,58,3
+23,Ranipet,92,2
+24,Salem,52,0
 25,Sivaganga,28,0
-26,Tenkasi,83,0
-27,Thanjavur,80,0
-28,Theni,101,0
-29,Thiruvallur,675,0
-30,Thiruvarur,35,0
-31,Thoothukkudi,143,0
-32,Tiruchirappalli,72,0
-33,Tirunelveli,272,0
+26,Tenkasi,85,0
+27,Thanjavur,83,3
+28,Theni,106,4
+29,Thiruvallur,731,34
+30,Thiruvarur,37,2
+31,Thoothukkudi,159,11
+32,Tiruchirappalli,75,3
+33,Tirunelveli,283,0
 34,Tirupathur,30,0
 35,Tiruppur,114,0
-36,Tiruvannamalai,172,0
+36,Tiruvannamalai,187,4
 37,Vellore,39,0
-38,Viluppuram,323,0
-39,Virudhunagar,95,0
+38,Viluppuram,327,0
+39,Virudhunagar,110,13

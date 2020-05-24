@@ -1,26 +1,26 @@
 ,District,Total_Cases,Cases_Today
 0,Alipurduar,0,0
-1,Bankura,0,0
-2,Birbhum,17,0
+1,Bankura,1,0
+2,Birbhum,20,2
 3,Cooch Behar,0,0
-4,Dakshin Dinajpur,3,0
+4,Dakshin Dinajpur,4,0
 5,Darjeeling,10,0
-6,Hooghly,170,0
-7,Howrah,732,0
+6,Hooghly,211,20
+7,Howrah,799,48
 8,Jalpaiguri,4,0
 9,Jhargram,3,0
 10,Kalimpong,7,0
-11,Kolkata,1570,0
-12,Malda,48,0
-13,Murshidabad,28,0
-14,Nadia,19,0
-15,North 24 Parganas,437,0
-16,Other State,25,0
-17,Paschim Bardhaman,20,0
+11,Kolkata,1665,52
+12,Malda,81,31
+13,Murshidabad,44,9
+14,Nadia,26,1
+15,North 24 Parganas,466,21
+16,Other State,31,4
+17,Paschim Bardhaman,22,1
 18,Paschim Medinipur,26,0
-19,Purba Bardhaman,21,0
+19,Purba Bardhaman,27,2
 20,Purba Medinipur,52,0
 21,Purulia,0,0
-22,South 24 Parganas,113,0
-23,Uttar Dinajpur,16,0
+22,South 24 Parganas,124,4
+23,Uttar Dinajpur,33,13
 24,Unknown,11,0

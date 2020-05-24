@@ -1,36 +1,37 @@
 ,District,Total_Cases,Cases_Today
-0,Other State,116,0
-1,Adilabad,21,0
-2,Bhadradri Kothagudem,4,0
-3,Hyderabad,1124,0
-4,Jagtial,4,0
-5,Jangaon,3,0
-6,Jayashankar Bhupalapally,3,0
-7,Jogulamba Gadwal,45,0
-8,Kamareddy,12,0
-9,Karimnagar,19,0
-10,Khammam,8,0
-11,Komaram Bheem,7,0
-12,Mahabubabad,1,0
-13,Mahabubnagar,11,0
-14,Mancherial,1,0
-15,Medak,5,0
-16,Medchal Malkajgiri,25,0
-17,Mulugu,2,0
-18,Nagarkurnool,2,0
-19,Nalgonda,17,0
-20,Narayanpet,1,0
-21,Nirmal,20,0
-22,Nizamabad,61,0
-23,Peddapalli,2,0
-24,Rajanna Sircilla,3,0
-25,Ranga Reddy,47,0
-26,Sangareddy,9,0
-27,Siddipet,1,0
-28,Suryapet,83,0
-29,Vikarabad,37,0
-30,Wanaparthy,0,0
-31,Warangal Rural,0,0
-32,Warangal Urban,27,0
-33,Yadadri Bhuvanagiri,0,0
-34,Unknown,40,0
+0,Foreign Evacuees,6,6
+1,Other State,127,11
+2,Adilabad,21,0
+3,Bhadradri Kothagudem,4,0
+4,Hyderabad,1147,23
+5,Jagtial,4,0
+6,Jangaon,3,0
+7,Jayashankar Bhupalapally,3,0
+8,Jogulamba Gadwal,45,0
+9,Kamareddy,12,0
+10,Karimnagar,19,0
+11,Khammam,8,0
+12,Komaram Bheem,7,0
+13,Mahabubabad,1,0
+14,Mahabubnagar,11,0
+15,Mancherial,1,0
+16,Medak,5,0
+17,Medchal Malkajgiri,25,0
+18,Mulugu,2,0
+19,Nagarkurnool,2,0
+20,Nalgonda,17,0
+21,Narayanpet,1,0
+22,Nirmal,20,0
+23,Nizamabad,61,0
+24,Peddapalli,2,0
+25,Rajanna Sircilla,3,0
+26,Ranga Reddy,48,1
+27,Sangareddy,9,0
+28,Siddipet,1,0
+29,Suryapet,83,0
+30,Vikarabad,37,0
+31,Wanaparthy,0,0
+32,Warangal Rural,0,0
+33,Warangal Urban,27,0
+34,Yadadri Bhuvanagiri,0,0
+35,Unknown,92,0
