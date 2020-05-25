@@ -1,25 +1,25 @@
 ,District,Total_Cases,Cases_Today
-0,Foreign Evacuees,21,21
+0,Foreign Evacuees,21,0
 1,Ambala,42,0
 2,Bhiwani,8,0
-3,Charkhi Dadri,6,0
-4,Faridabad,209,14
-5,Fatehabad,8,0
-6,Gurugram,271,9
-7,Hisar,19,7
+3,Charkhi Dadri,7,1
+4,Faridabad,211,2
+5,Fatehabad,9,1
+6,Gurugram,284,13
+7,Hisar,20,1
 8,Italians,14,0
-9,Jhajjar,93,2
-10,Jind,26,0
-11,Kaithal,6,1
-12,Karnal,32,8
-13,Kurukshetra,15,0
+9,Jhajjar,93,0
+10,Jind,29,3
+11,Kaithal,6,0
+12,Karnal,33,1
+13,Kurukshetra,18,3
 14,Mahendragarh,21,0
 15,Nuh,65,0
 16,Palwal,41,0
 17,Panchkula,25,0
-18,Panipat,54,1
-19,Rewari,16,5
-20,Rohtak,16,1
+18,Panipat,54,0
+19,Rewari,16,0
+20,Rohtak,16,0
 21,Sirsa,9,0
-22,Sonipat,159,5
+22,Sonipat,163,4
 23,Yamunanagar,8,0

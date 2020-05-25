@@ -1,76 +1,76 @@
 ,District,Total_Cases,Cases_Today
-0,Agra,850,5
-1,Aligarh,126,5
-2,Ambedkar Nagar,37,2
-3,Amethi,41,1
-4,Amroha,56,13
+0,Agra,859,9
+1,Aligarh,127,1
+2,Ambedkar Nagar,39,2
+3,Amethi,46,5
+4,Amroha,59,3
 5,Auraiya,22,0
 6,Ayodhya,57,0
-7,Azamgarh,40,9
-8,Baghpat,29,2
-9,Bahraich,70,2
-10,Ballia,15,0
-11,Balrampur,36,2
+7,Azamgarh,40,0
+8,Baghpat,29,0
+9,Bahraich,73,3
+10,Ballia,31,16
+11,Balrampur,36,0
 12,Banda,23,0
-13,Barabanki,133,0
-14,Bareilly,47,8
-15,Basti,124,5
-16,Bhadohi,23,9
-17,Bijnor,76,6
-18,Budaun,35,1
-19,Bulandshahr,106,2
-20,Chandauli,18,1
-21,Chitrakoot,20,0
-22,Deoria,53,15
-23,Etah,13,0
-24,Etawah,38,1
-25,Farrukhabad,25,1
-26,Fatehpur,38,5
-27,Firozabad,209,1
-28,Gautam Buddha Nagar,351,17
-29,Ghaziabad,232,6
-30,Ghazipur,77,0
-31,Gonda,50,11
-32,Gorakhpur,40,2
-33,Hamirpur,4,0
-34,Hapur,99,8
-35,Hardoi,38,5
+13,Barabanki,140,7
+14,Bareilly,51,4
+15,Basti,140,16
+16,Bhadohi,27,4
+17,Bijnor,79,3
+18,Budaun,36,1
+19,Bulandshahr,107,1
+20,Chandauli,20,2
+21,Chitrakoot,29,9
+22,Deoria,53,0
+23,Etah,16,3
+24,Etawah,43,5
+25,Farrukhabad,25,0
+26,Fatehpur,39,1
+27,Firozabad,219,10
+28,Gautam Buddha Nagar,359,8
+29,Ghaziabad,238,6
+30,Ghazipur,85,8
+31,Gonda,50,0
+32,Gorakhpur,53,13
+33,Hamirpur,6,2
+34,Hapur,99,0
+35,Hardoi,38,0
 36,Hathras,22,0
-37,Jalaun,43,1
-38,Jaunpur,126,3
-39,Jhansi,32,1
-40,Kannauj,36,6
-41,Kanpur Dehat,10,1
-42,Kanpur Nagar,328,1
-43,Kasganj,15,2
-44,Kaushambi,45,1
-45,Kushinagar,9,1
-46,Lakhimpur Kheri,60,12
+37,Jalaun,43,0
+38,Jaunpur,137,11
+39,Jhansi,32,0
+40,Kannauj,36,0
+41,Kanpur Dehat,10,0
+42,Kanpur Nagar,335,7
+43,Kasganj,15,0
+44,Kaushambi,47,2
+45,Kushinagar,9,0
+46,Lakhimpur Kheri,60,0
 47,Lalitpur,1,0
-48,Lucknow,327,2
-49,Maharajganj,38,1
-50,Mahoba,9,5
-51,Mainpuri,25,0
-52,Mathura,61,1
-53,Mau,15,1
-54,Meerut,377,15
-55,Mirzapur,31,1
-56,Moradabad,183,2
-57,Muzaffarnagar,46,6
+48,Lucknow,327,0
+49,Maharajganj,39,1
+50,Mahoba,9,0
+51,Mainpuri,26,1
+52,Mathura,65,4
+53,Mau,15,0
+54,Meerut,379,2
+55,Mirzapur,31,0
+56,Moradabad,188,5
+57,Muzaffarnagar,46,0
 58,Pilibhit,41,0
-59,Pratapgarh,59,0
-60,Prayagraj,69,2
-61,Rae Bareli,62,0
-62,Rampur,148,12
-63,Saharanpur,230,3
-64,Sambhal,66,5
-65,Sant Kabir Nagar,59,-1
-66,Shahjahanpur,18,1
-67,Shamli,40,1
+59,Pratapgarh,60,1
+60,Prayagraj,71,2
+61,Rae Bareli,64,2
+62,Rampur,167,19
+63,Saharanpur,231,1
+64,Sambhal,67,1
+65,Sant Kabir Nagar,64,5
+66,Shahjahanpur,19,1
+67,Shamli,42,2
 68,Shrawasti,29,0
-69,Siddharthnagar,78,1
+69,Siddharthnagar,85,7
 70,Sitapur,39,0
-71,Sonbhadra,5,2
-72,Sultanpur,60,0
-73,Unnao,26,4
-74,Varanasi,149,13
+71,Sonbhadra,5,0
+72,Sultanpur,62,2
+73,Unnao,27,1
+74,Varanasi,159,10

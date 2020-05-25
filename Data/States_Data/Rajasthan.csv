@@ -1,38 +1,38 @@
 ,District,Total_Cases,Cases_Today
-0,Ajmer,307,22
-1,Alwar,46,1
+0,Ajmer,307,0
+1,Alwar,51,5
 2,Banswara,85,0
 3,Baran,5,0
-4,Barmer,82,6
-5,Bharatpur,141,6
-6,Bhilwara,117,6
-7,Bikaner,78,3
+4,Barmer,87,5
+5,Bharatpur,141,0
+6,Bhilwara,118,1
+7,Bikaner,78,0
 8,BSF Camp,50,0
 9,Bundi,0,0
 10,Chittorgarh,170,0
-11,Churu,68,0
-12,Dausa,43,2
-13,Dholpur,41,3
-14,Dungarpur,318,4
+11,Churu,85,17
+12,Dausa,44,1
+13,Dholpur,41,0
+14,Dungarpur,319,1
 15,Evacuees,61,0
 16,Ganganagar,1,0
 17,Hanumangarh,14,0
 18,Italians,2,0
-19,Jaipur,1815,78
-20,Jaisalmer,68,4
-21,Jalore,149,0
+19,Jaipur,1828,13
+20,Jaisalmer,68,0
+21,Jalore,154,5
 22,Jhalawar,59,0
-23,Jhunjhunu,88,3
-24,Jodhpur,1224,35
+23,Jhunjhunu,91,3
+24,Jodhpur,1271,47
 25,Karauli,10,0
-26,Kota,379,6
-27,Nagaur,343,47
-28,Other State,12,2
-29,Pali,287,7
+26,Kota,386,7
+27,Nagaur,391,48
+28,Other State,12,0
+29,Pali,337,50
 30,Pratapgarh,12,0
-31,Rajsamand,112,24
-32,Sawai Madhopur,17,0
-33,Sikar,82,3
-34,Sirohi,103,3
+31,Rajsamand,115,3
+32,Sawai Madhopur,18,1
+33,Sikar,126,44
+34,Sirohi,112,9
 35,Tonk,159,0
-36,Udaipur,480,21
+36,Udaipur,492,12

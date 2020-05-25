@@ -1,32 +1,32 @@
 ,District,Total_Cases,Cases_Today
 0,Bagalkote,77,0
-1,Ballari,33,0
-2,Belagavi,127,0
+1,Ballari,36,3
+2,Belagavi,128,1
 3,Bengaluru Rural,11,0
-4,Bengaluru Urban,268,1
-5,Bidar,85,6
+4,Bengaluru Urban,276,8
+5,Bidar,86,1
 6,Chamarajanagara,0,0
-7,Chikkaballapura,126,27
+7,Chikkaballapura,126,0
 8,Chikkamagaluru,10,0
 9,Chitradurga,11,0
-10,Dakshina Kannada,60,1
-11,Davanagere,123,4
-12,Dharwad,39,1
+10,Dakshina Kannada,64,4
+11,Davanagere,123,0
+12,Dharwad,43,4
 13,Gadag,35,0
-14,Hassan,99,14
+14,Hassan,100,1
 15,Haveri,6,0
-16,Kalaburagi,142,6
-17,Kodagu,3,1
-18,Kolar,14,0
+16,Kalaburagi,158,16
+17,Kodagu,3,0
+18,Kolar,16,2
 19,Koppal,3,0
-20,Mandya,252,15
+20,Mandya,254,2
 21,Mysuru,90,0
 22,Other State,22,0
 23,Raichur,66,0
-24,Ramanagara,0,0
-25,Shivamogga,36,2
-26,Tumakuru,26,2
-27,Udupi,76,23
-28,Uttara Kannada,70,2
-29,Vijayapura,69,1
-30,Yadgir,110,24
+24,Ramanagara,1,1
+25,Shivamogga,36,0
+26,Tumakuru,27,1
+27,Udupi,108,32
+28,Uttara Kannada,71,1
+29,Vijayapura,70,1
+30,Yadgir,125,15
