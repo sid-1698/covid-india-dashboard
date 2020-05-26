@@ -1,35 +1,35 @@
 ,District,Total_Cases,Cases_Today
-0,Other State,8,1
-1,Ahmedabad,10590,310
-2,Amreli,6,2
-3,Anand,93,2
-4,Aravalli,99,0
-5,Banaskantha,99,0
+0,Other State,8,0
+1,Ahmedabad,10841,251
+2,Amreli,7,1
+3,Anand,93,0
+4,Aravalli,101,2
+5,Banaskantha,102,3
 6,Bharuch,37,0
-7,Bhavnagar,117,2
-8,Botad,57,1
+7,Bhavnagar,119,2
+8,Botad,57,0
 9,Chhota Udaipur,22,0
 10,Dahod,36,0
 11,Dang,2,0
 12,Devbhumi Dwarka,12,0
-13,Gandhinagar,225,4
+13,Gandhinagar,232,7
 14,Gir Somnath,44,0
-15,Jamnagar,47,0
-16,Junagadh,26,0
-17,Kheda,63,1
-18,Kutch,64,0
-19,Mahisagar,88,7
-20,Mehsana,102,1
+15,Jamnagar,52,5
+16,Junagadh,27,1
+17,Kheda,63,0
+18,Kutch,66,2
+19,Mahisagar,91,3
+20,Mehsana,103,1
 21,Morbi,3,0
-22,Narmada,18,3
-23,Navsari,16,1
-24,Panchmahal,77,3
-25,Patan,72,1
-26,Porbandar,7,1
-27,Rajkot,93,1
-28,Sabarkantha,89,12
-29,Surat,1351,31
-30,Surendranagar,25,2
+22,Narmada,18,0
+23,Navsari,18,2
+24,Panchmahal,78,1
+25,Patan,73,1
+26,Porbandar,7,0
+27,Rajkot,94,1
+28,Sabarkantha,97,8
+29,Surat,1387,36
+30,Surendranagar,25,0
 31,Tapi,6,0
-32,Vadodara,854,18
-33,Valsad,20,1
+32,Vadodara,885,31
+33,Valsad,23,3
