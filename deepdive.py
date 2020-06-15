@@ -25,7 +25,7 @@ def get_quadrantplot_data(path):
     labs = labs['state'].value_counts().reset_index(drop=False)
     labs.columns = ['State','Labs']
     
-    test = test.groupby('State')['Samples'].max().reset_index(drop=False)
+    test = test.groupby('State')['TotalSamples'].max().reset_index(drop=False)
     
     hospitals = hospitals[['State','Total_Hospitals','Total_Beds']]
     hospitals = hospitals.iloc[:-1,:]
@@ -145,8 +145,8 @@ def plot2(path):
     data.dropna(inplace=True)
     states = data['State'].values.tolist()
     labs = data['Labs'].values.tolist()
-    data['Samples'] = data['Samples']/10
-    fig.add_trace(go.Scatter(x=data['Samples'],y=data['Positive'],text=['State : {} <br> Labs : {}'.format(state,lab) for state,lab in zip(states,labs)],
+    data['TotalSamples'] = data['TotalSamples']/10
+    fig.add_trace(go.Scatter(x=data['TotalSamples'],y=data['Positive'],text=['State : {} <br> Labs : {}'.format(state,lab) for state,lab in zip(states,labs)],
                              marker_color='#0779e4',hoverinfo = 'text',mode='markers',marker_size=15),1,1)
                              
     fig.add_shape(
